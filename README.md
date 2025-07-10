@@ -27,8 +27,8 @@ The generated HTML report (`SPY-Volatility-Project.html`) can be downloaded and 
 
 ## How to Run the Project with R
 
-1. Clone this repository or download the `volatility_model_project.Rmd` file.  
-2. Open `volatility_model_project.Rmd` in RStudio.  
+1. Clone this repository or download the `SPY Volatility Project.Rmd` file.  
+2. Open `SPY Volatility Project.Rmd` in RStudio.  
 3. Click **Knit** to run the analysis and generate the HTML report with all graphs and results.  
 4. The report will open automatically in RStudio’s viewer or your default web browser. You can also find the saved `.html` file in your working directory to open or share later.
 
