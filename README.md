@@ -22,11 +22,12 @@ This project analyzes the volatility of the SPY ETF (tracking the S&P 500) using
 
 ## How to Run the Project
 
-1. Clone this repository or download the `.R` script.
-2. Open `volatility_model_project.R` in RStudio.
-3. Run the script from start to finish.
+1. Clone this repository or download the `volatility_model_project.Rmd` file.  
+2. Open `volatility_model_project.Rmd` in RStudio.  
+3. Click **Knit** to run the analysis and generate the HTML report with all graphs and results.  
+4. Open the generated `.html` file in any web browser to view the full interactive report.
 
-Install the following R packages before running:
+Make sure the following R packages are installed before knitting:
 
 ```r
 install.packages(c("quantmod", "rugarch", "forecast", "tseries", "ggplot2", "dplyr"))
