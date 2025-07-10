@@ -20,7 +20,12 @@ This project analyzes the volatility of the SPY ETF (tracking the S&P 500) using
 6. Forecast volatility for the next 30 days.
 7. Visualize all results.
 
-## How to Run the Project
+## Viewing the Report Without R
+
+The generated HTML report (`SPY-Volatility-Project.html`) can be downloaded and opened directly in any modern web browser. This allows anyone to explore the full analysis, code, and visualizations without needing to install R or run any code.
+
+
+## How to Run the Project with R
 
 1. Clone this repository or download the `volatility_model_project.Rmd` file.  
 2. Open `volatility_model_project.Rmd` in RStudio.  
